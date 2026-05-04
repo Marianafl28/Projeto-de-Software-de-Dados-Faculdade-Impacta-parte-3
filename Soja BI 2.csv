@@ -1,0 +1,51 @@
+ID,Região,Cultivar,Transgênica,Ciclo (dias),Colheita (dias),Plantio,Colheita,Proteína (%),Óleo (%)
+1,Mato Grosso,Soja A,Sim,104,10,Set-Out,Jan-Fev,38,19
+2,Mato Grosso,Soja B,Sim,110,11,Set-Out,Jan-Fev,39,20
+3,Mato Grosso,Soja C,Sim,108,10,Set-Out,Jan-Fev,39,20
+4,Mato Grosso,Soja D,Sim,115,12,Out-Nov,Fev-Mar,37,21
+5,Mato Grosso,Soja E,Não,120,13,Out-Nov,Mar-Abr,41,17
+6,Paraná,Soja A,Não,112,12,Out-Nov,Fev-Mar,40,18
+7,Paraná,Soja B,Não,118,13,Out-Nov,Fev-Mar,40,18
+8,Paraná,Soja C,Sim,110,11,Set-Out,Jan-Fev,39,20
+9,Paraná,Soja D,Não,122,14,Nov-Dez,Mar-Abr,41,17
+10,Goiás,Soja A,Sim,103,9,Set-Out,Jan,38,19
+11,Goiás,Soja B,Sim,109,10,Set-Out,Jan-Fev,39,20
+12,Goiás,Soja C,Sim,111,11,Set-Out,Jan-Fev,39,20
+13,Goiás,Soja D,Sim,118,12,Out-Nov,Fev-Mar,37,21
+14,Bahia,Soja A,Sim,115,12,Nov-Dez,Mar-Abr,37,21
+15,Bahia,Soja B,Sim,120,13,Nov-Dez,Mar-Abr,37,21
+16,Bahia,Soja C,Sim,118,12,Nov-Dez,Mar-Abr,38,20
+17,Rio Grande do Sul,Soja D,Não,125,14,Out-Nov,Mar-Abr,41,17
+18,Rio Grande do Sul,Soja E,Não,128,15,Out-Nov,Mar-Abr,41,17
+19,Rio Grande do Sul,Soja B,Não,122,14,Out-Nov,Mar-Abr,40,18
+20,Mato Grosso do Sul,Soja A,Sim,104,10,Set-Out,Jan-Fev,38,19
+21,Mato Grosso do Sul,Soja B,Sim,110,11,Set-Out,Jan-Fev,39,20
+22,Mato Grosso do Sul,Soja C,Sim,112,11,Set-Out,Jan-Fev,39,20
+23,Minas Gerais,Soja A,Não,113,12,Out-Nov,Fev-Mar,40,18
+24,Minas Gerais,Soja B,Não,117,12,Out-Nov,Fev-Mar,40,18
+25,Minas Gerais,Soja C,Sim,110,11,Set-Out,Jan-Fev,39,20
+26,Tocantins,Soja A,Sim,105,10,Set-Out,Jan,38,19
+27,Tocantins,Soja B,Sim,109,10,Set-Out,Jan-Fev,39,20
+28,Maranhão,Soja D,Sim,120,13,Nov-Dez,Mar-Abr,37,21
+29,Maranhão,Soja C,Sim,118,12,Nov-Dez,Mar-Abr,38,20
+30,Piauí,Soja E,Não,126,14,Out-Nov,Mar-Abr,41,17
+31,Piauí,Soja D,Sim,121,13,Nov-Dez,Mar-Abr,37,21
+32,Mato Grosso,Soja A,Sim,103,9,Set-Out,Jan,38,19
+33,Mato Grosso,Soja C,Sim,110,11,Set-Out,Jan-Fev,39,20
+34,Paraná,Soja B,Não,118,13,Out-Nov,Fev-Mar,40,18
+35,Goiás,Soja C,Sim,111,11,Set-Out,Jan-Fev,39,20
+36,Bahia,Soja D,Sim,122,13,Nov-Dez,Mar-Abr,37,21
+37,Rio Grande do Sul,Soja E,Não,129,15,Out-Nov,Mar-Abr,41,17
+38,Mato Grosso do Sul,Soja A,Sim,102,9,Set-Out,Jan,38,19
+39,Minas Gerais,Soja B,Não,117,12,Out-Nov,Fev-Mar,40,18
+40,Tocantins,Soja C,Sim,112,11,Set-Out,Jan-Fev,39,20
+41,Maranhão,Soja D,Sim,121,13,Nov-Dez,Mar-Abr,37,21
+42,Piauí,Soja E,Não,127,14,Out-Nov,Mar-Abr,41,17
+43,Mato Grosso,Soja A,Sim,104,10,Set-Out,Jan-Fev,38,19
+44,Paraná,Soja B,Não,115,12,Out-Nov,Fev-Mar,40,18
+45,Goiás,Soja C,Sim,111,11,Set-Out,Jan-Fev,39,20
+46,Bahia,Soja D,Sim,123,13,Nov-Dez,Mar-Abr,37,21
+47,Rio Grande do Sul,Soja E,Não,129,15,Out-Nov,Mar-Abr,41,17
+48,Mato Grosso do Sul,Soja A,Sim,102,9,Set-Out,Jan,38,19
+49,Minas Gerais,Soja B,Não,118,12,Out-Nov,Fev-Mar,40,18
+50,Tocantins,Soja C,Sim,113,11,Set-Out,Jan-Fev,39,20
